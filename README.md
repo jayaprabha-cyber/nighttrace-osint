@@ -14,3 +14,4 @@ The first footprint is hidden in plain sight.
 
 Remember:
 The first name is not always the real username.
+Some footprints are easier to find when you look backward.
